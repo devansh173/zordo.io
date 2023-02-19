@@ -1,0 +1,88 @@
+
+
+.gamepage{
+    
+    background-image: url('images/sizefine3.jpg');
+    margin: 0%;
+    height: 100vh;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+button {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3em;
+    font-weight: bold;
+    color: white;
+    border: 5px double rgb(2, 252, 11);
+    border-radius: 30%;
+    background: #660000;
+}
+body{
+    padding: 0%;
+    margin: 0%;
+    height: 100vh;
+    
+
+}h1{
+    margin: 0%;
+    text-align: center;
+    color: #7EC8E3;
+    
+    font-family: Babylonica;
+    font-size: 5rem;
+    
+
+
+}
+.score{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    font-size: 1em
+}
+
+#fighter{
+    text-align: unset;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+height: 20%;
+    text-align: center;
+   
+}
+.gothic{
+    text-align: unset;
+width: 100%;
+height: 100%;
+position: relative;
+}
+
+.our{
+    position: absolute;
+    height: 100%;
+    width: 10%;
+}
+#enemysarea{
+    width: 100%;
+    height: 20%;
+}
+.img{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    text-align: unset;
+    border-radius: 50%;
+  background-color: #fff;
+  box-shadow:
+    0 0 50px 20px #fff,
+
+    0 0 70px 40px #f0f,
+    0 0 100px 60px #0ff;
+
+}
+.lazerimg{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+}
